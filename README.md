@@ -8,7 +8,7 @@ Install
 1. brew install node
 2. npm install jsdom
 3. npm install ( in project root directory )
->See package.json for installable dependencies.
+>See **package.json** for installable dependencies.
 
 Build
 -----
@@ -21,6 +21,7 @@ Dev
 1. sbt ( unique terminal session )
 2. ~fastLinkJS
 3. npx snowpack dev ( unique terminal session )
+>See **snowpack.config.json** and [Snowpack Config](https://www.snowpack.dev/reference/configuration) for configurable options.
 
 Package
 -------
