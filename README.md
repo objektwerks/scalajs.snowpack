@@ -7,10 +7,11 @@ Install
 >jsdom must be installed **locally** - not globally!
 1. brew install node
 2. npm install jsdom
+3. npm install ( in project root directory )
 
 Build
 -----
-1. npm install ( in project root directory, and only when package.json changes )
+1. npm install ( only when package.json changes )
 2. sbt clean compile fastLinkJS
 
 Dev
