@@ -17,9 +17,9 @@ Build
 Dev
 ---
 >Edits are reflected in each terminal.
-1. sbt ( interactive session )
+1. sbt ( unique terminal session )
 2. ~fastLinkJS
-3. npx snowpack dev ( new terminal tab )
+3. npx snowpack dev ( unique terminal session )
 
 Source
 ------
