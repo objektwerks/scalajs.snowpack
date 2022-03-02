@@ -29,4 +29,4 @@ Package
 
 Source
 ------
->See https://github.com/lolgab/scalajs-snowpack-example for original source.
+>See [Lorenzo Gabriele's](https://github.com/lolgab/scalajs-snowpack-example) original work for more inspiration.
