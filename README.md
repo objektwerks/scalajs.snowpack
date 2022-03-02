@@ -21,6 +21,10 @@ Dev
 2. ~fastLinkJS
 3. npx snowpack dev ( unique terminal session )
 
+Package
+-------
+1. npx snowpack build ( see build directory )
+
 Source
 ------
 >See https://github.com/lolgab/scalajs-snowpack-example for original source.
