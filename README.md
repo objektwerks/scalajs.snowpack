@@ -8,6 +8,7 @@ Install
 1. brew install node
 2. npm install jsdom
 3. npm install ( in project root directory )
+>See package.json for installable dependencies.
 
 Build
 -----
