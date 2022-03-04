@@ -13,7 +13,7 @@ Install
 Build
 -----
 1. npm install ( only when package.json changes )
-2. sbt clean compile fastLinkJS
+2. sbt clean compile fastLinkJS | fullLinkJS
 
 Dev
 ---
