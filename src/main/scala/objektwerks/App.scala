@@ -1,9 +1,9 @@
 package objektwerks
 
-import com.raquo.laminar.api.L._
-
 import org.scalajs.dom
 
 object App:
   def main(args: Array[String]): Unit =
-    render(dom.document.getElementById("container"), div(h1("Scalajs loves Snowpack!")))
+    val paragraph = dom.document.createElement("p")
+    paragraph.textContent = "Scalajs loves Snowpack!"
+    dom.document.body.appendChild(paragraph)
