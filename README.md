@@ -17,7 +17,7 @@ Build
 
 Dev
 ---
->Edits are reflected in each both terminals.
+>Edits are reflected in both terminal sessions.
 1. sbt ( terminal session )
 2. ~fastLinkJS | ~fullLinkJS
 3. npx snowpack dev ( terminal session )
