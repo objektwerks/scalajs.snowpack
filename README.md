@@ -25,7 +25,7 @@ Dev
 
 Package
 -------
-1. npx snowpack build ( see build directory )
+1. npx snowpack build ( see **build** directory )
 
 Source
 ------
