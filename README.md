@@ -4,9 +4,8 @@ Scalajs-Snowpack
 
 Install
 -------
->jsdom must be installed **locally** - not globally!
 1. brew install node
-2. npm install jsdom
+2. npm install jsdom ( must install **locally** )
 3. npm install ( in project root directory )
 >See **package.json** for installable dependencies.
 
