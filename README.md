@@ -17,10 +17,10 @@ Build
 
 Dev
 ---
->Edits are reflected in each terminal.
-1. sbt ( unique terminal session )
+>Edits are reflected in each both terminals.
+1. sbt ( terminal session )
 2. ~fastLinkJS | ~fullLinkJS
-3. npx snowpack dev ( unique terminal session )
+3. npx snowpack dev ( terminal session )
 >See **snowpack.config.json** and [Snowpack Config](https://www.snowpack.dev/reference/configuration) for configurable options.
 
 Package
