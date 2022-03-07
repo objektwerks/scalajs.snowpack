@@ -21,7 +21,7 @@ Test
 
 Dev
 ---
->Edits are reflected in both terminal sessions.
+>Edits are reflected in both sessions.
 1. sbt ( new session )
 2. ~fastLinkJS
 3. npx snowpack dev ( new session )
