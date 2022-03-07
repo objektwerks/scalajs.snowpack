@@ -10,5 +10,3 @@ scalaJSUseMainModuleInitializer := true
 libraryDependencies += "org.scala-js" %%% "scalajs-dom" % "2.0.0"
 Compile / fastLinkJS / scalaJSLinkerOutputDirectory := target.value / public
 Compile / fullLinkJS / scalaJSLinkerOutputDirectory := target.value / public
-fastLinkJS / crossTarget := target.value / public
-fullLinkJS / crossTarget := target.value / public
