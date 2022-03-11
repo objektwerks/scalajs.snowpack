@@ -1,6 +1,6 @@
 Scalajs-Snowpack
 ----------------
->How to use [Snowpack](https://snowpack.dev) with [Scalajs](https://scala-js.org).
+>How to use [Snowpack](https://snowpack.dev) with [ScalaJs](https://scala-js.org).
 
 Install
 -------
