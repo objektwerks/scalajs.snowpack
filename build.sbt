@@ -9,7 +9,7 @@ scalaVersion := "3.6.1"
 scalaJSUseMainModuleInitializer := true
 libraryDependencies += "org.scala-js" %%% "scalajs-dom" % "2.8.0"
 scalacOptions ++= Seq(
-  "-Wunused:all"
+  "-Wall"
 )
 Compile / fastLinkJS / scalaJSLinkerOutputDirectory := target.value / public
 Compile / fullLinkJS / scalaJSLinkerOutputDirectory := target.value / public
