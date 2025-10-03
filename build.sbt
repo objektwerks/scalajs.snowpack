@@ -7,7 +7,7 @@ organization := "objektwerks"
 version := "0.1-SNAPSHOT"
 scalaVersion := "3.7.4-RC1"
 scalaJSUseMainModuleInitializer := true
-libraryDependencies += "org.scala-js" %%% "scalajs-dom" % "2.8.0"
+libraryDependencies += "org.scala-js" %%% "scalajs-dom" % "2.8.1"
 scalacOptions ++= Seq(
   "-Wunused:all"
 )
